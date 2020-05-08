@@ -759,6 +759,12 @@ i:before {
   overflow: hidden;
 }
 
+.team_img_item > img{
+  width: 350px;
+  height: 250px;
+  object-fit: cover;
+}
+
 .team_img_inner .team_img_item {
   overflow: hidden;
 }
